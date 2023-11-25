@@ -1,4 +1,4 @@
 baseURL = 'https://www.lizardovercortex.github.io/'
 languageCode = 'en-us'
 title = 'lizardovercortex'
-theme = 'ananke'
+theme = 'hugo-blog-awesome'
